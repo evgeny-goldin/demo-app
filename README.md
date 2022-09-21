@@ -27,7 +27,7 @@ Please execute the following steps:
     * Click `New repository secret`
     * Add `DEPLOY_PAT` as a name and paste PAT as a value
 * Enable Github Actions for the repository:
-    * Navigate to `https://github.com/<USERNAME>/demo-app/settings/secrets/actions`
+    * Navigate to `https://github.com/<USERNAME>/demo-app/actions`
     * Click `Enable local and third party Actions for this repository`
 
 
